@@ -1,9 +1,8 @@
-# PlagueRadio
 ## **📻 Plague Radio** 
 ### By Kaotick Jay
 
 **Plague Radio is a custom Fallout 4 radio station featuring two NPC DJs.** 
-
+![plague_radio_poster01.png](plague_radio_poster01.png)
 
 The first is, *Mister The Plague*: a paranoid late-night pirate radio host broadcasting from "somewhere the Institute definitely does not know about." Armed with aging analog equipment, a microphone, and an unshakable belief that the Institute is quietly replacing humanity one person at a time, he's determined to warn anyone willing to listen.
 
@@ -96,5 +95,4 @@ Enable the plugin in the in-game Creations manager or your Plugins.txt
 Alternatively, you can drop the zip archive into Vortex to install
 
 **That's it.**
-
 
